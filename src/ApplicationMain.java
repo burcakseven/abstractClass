@@ -14,6 +14,8 @@ public class ApplicationMain {
 	
 		
 		
+		System.out.println("test");
+		
 		Veteriner veteriner = new Veteriner();
 		
 		veteriner.hayvaniIncele(kus);
